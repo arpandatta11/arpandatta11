@@ -17,7 +17,7 @@ Skills: Python / ML / DL / Keras / Tensorflow / CV2 / NLP /HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/arpandatta11)  
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
 
