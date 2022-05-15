@@ -1,6 +1,6 @@
 ### Hi there 👋, Arpan Datta
-#### Data Scientist
-![Data Scientist](https://media-exp1.licdn.com/dms/image/C4D16AQFxvJ4cY1T8Dg/profile-displaybackgroundimage-shrink_350_1400/0/1651309318172?e=1657756800&v=beta&t=0Xk5tF9Uvs-InE4z8nLc8JRhvzpVv1nax4X7lzNuRd0)
+### Data Scientist
+![Data Scientist](https://news.microsoft.com/wp-content/uploads/prod/2016/12/ai-revised2.gif)
 
 My name is (Arpan Datta), I from kolkata and my UG degree in B.sc IT (Data Science specialization) from MAKAUT, WBUT. I have work experience many projects, python and various python libraries. Analytical Tools: Power BI , Tableau , Excel Software: Jupyter Notebook , Google Colaboratory Programming Languages: Python, SQL Libraries: Pandas , Numpy, Matplotlib, Seaborn, Scykit-Learn, Keras, Tensorflow, K-Nearest Neighbour (KNN) and Also has experience working with many more Python libraries. Those are Machine learning , Deep learning, Regression, classification, Clustering, Computer vision, Natural Language Processing (NLP), Time Series analysis , Etc..
 
