@@ -1,5 +1,5 @@
 ### Hi there 👋, Arpan Datta
-#### Data Scientist
+### Data Scientist
 ![Data Scientist](https://news.microsoft.com/wp-content/uploads/prod/2016/12/ai-revised2.gif)
 
 My name is (Arpan Datta), I from kolkata and my UG degree in B.sc IT (Data Science specialization) from MAKAUT, WBUT. I have work experience many projects, python and various python libraries. Analytical Tools: Power BI , Tableau , Excel Software: Jupyter Notebook , Google Colaboratory Programming Languages: Python, SQL Libraries: Pandas , Numpy, Matplotlib, Seaborn, Scykit-Learn, Keras, Tensorflow, K-Nearest Neighbour (KNN) and Also has experience working with many more Python libraries. Those are Machine learning , Deep learning, Regression, classification, Clustering, Computer vision, Natural Language Processing (NLP), Time Series analysis , Etc..
@@ -11,7 +11,7 @@ Skills: Python / ML / DL / Keras / Tensorflow / CV2 / NLP /HTML / CSS
 - 📫 How to reach me:  arpandatta012@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arpandatta11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/arpan-datta-391311201)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arpandatta11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/arpandatta011)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/arpan-datta-391311201)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
