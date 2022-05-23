@@ -24,7 +24,8 @@ Skills: Python / ML / DL / Keras / Tensorflow / CV2 / NLP /HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpandatta11)](https://github-readme-stats.vercel.app/api/top-langs/?username=arpandatta11)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpandatta11&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpandatta11&show_icons=true&include_all_commits=true&theme=radical&hide_border=true")  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arpandatta11)  
 
